@@ -23,7 +23,7 @@ To set up the project locally, follow these steps:
 
 ### Clone the repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/lokeshwaran105/NFT-MarketPlace
 ```
 ### Install dependencies:
 ```bash
